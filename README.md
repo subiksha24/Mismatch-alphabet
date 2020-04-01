@@ -1,5 +1,5 @@
 # mismatch-alphabet-
-Giving input string and find mismatched alphabet from string in continuous series
+//Giving input string and find mismatched alphabet from string in continuous series
 // pgm to find mismatched character in input string 
 #include<stdio.h>
 #include<stdlib.h>
